@@ -5,3 +5,4 @@ By modifying the session, it is possible to access the administrator page.
 ![](2.png)
 ![](3.png)
 ![](4.png)
+![](5.png)
